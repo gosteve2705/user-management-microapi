@@ -2,10 +2,10 @@
 const swaggerOptions = {
     swaggerDefinition: {
         info: {
-            title: "Team Granite's Dockerized User Management Micro-Service",
+            title: "Dockerized User Management Micro-Service",
             description: "A Dockerized Microservice for User Management",
             contact: {
-                name: 'Team Granite'
+                name: 'User APIs'
             },
             server: ["http:localhost:5000"]
         }

@@ -35,5 +35,5 @@ app.use((error, req, res, next) => {
 
 
 app.listen(port, () =>
-  console.log(`Team Granite App is running on port: ${port}`)
+  console.log(`User API is running on port: ${port}`)
 );
